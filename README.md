@@ -1,4 +1,4 @@
-👋 Hi, I’m @Paul 
+👋 Hi, I’m @Paul(Pcharlot13)
 ---
 - 👀 I’m interested in software developement and electronic circuits.  
 - 🌱 I’m currently working on improving my frontend, backend, and OOP skills
